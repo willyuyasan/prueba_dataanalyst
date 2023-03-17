@@ -30,13 +30,20 @@ La necesidad de la empresa se puede resumir de la siguiente manera:
 | 5 | Identificar cual punto de venta lleva una estrategia optima en el control de inventario y ventas                                                                                                                                                              |
 
 
-Ejemplo (paso a paso de rotación laminas)	
+Ejemplo (paso a paso de rotación laminas)
+
 1	Salir de la bodega principal con 3200 laminas
+
 2	Ir al punto de venta 4: dejar 3200 y recoger 4200 de mas de 90 días
+
 3	Ir al punto de venta 3: recoger 700 de mas de 90 días
+
 4	Ir al punt o de venta 2: recoger 1200 de mas de 90 días
+
 5	Ir al punto de venta 1: dejar 2500 y recoger 2500 de mas de 90 días
+
 6	ir al punto de venta 5: dejar 2200 y recoger 1200 de más de 90 días
+
 7	Regresar a la bodega principal con 1900
 
 
@@ -50,11 +57,11 @@ Ejemplo (paso a paso de rotación laminas)
 
 *	Debe soportar versionamiento de código, de tal forma que nuevos o futuros desarrolladores puedan trabajar en el mismo proyecto (git, github)
 
-## Las fuentes de información disponibles para el desarrollo del ejercicio se encuentran adjuntas y se describen de la siguiente forma:
+## Las fuentes de información disponibles para el desarrollo del ejercicio se encuentran adjuntas en este mismo repositorio en la carpeta "results" y se describen de la siguiente forma:
 
-1	La información entregada en los excel con nomenclatura (P#_entrega_AAAA-MM-DD) corresponde al registro de laminas abastecidas a 5 puntos de venta desde bodega
+1	La información entregada en los excel con nomenclatura (P#_entrega_AAAA-MM-DD.xlsx) corresponde al registro de laminas abastecidas a 5 puntos de venta desde bodega
 
-2	La información entregada en los excel con nomenclatura (P#_ventas_AAAAMMDD) corresponde al registro de laminas vendidas en los 5 puntos de venta
+2	La información entregada en los excel con nomenclatura (P#_ventas_AAAAMMDD.xlsx) corresponde al registro de laminas vendidas en los 5 puntos de venta
 
 3	Considere la siguiente ubicación geo-espacial de los puntos (en la optimización de la estrategia de ruta):
 
