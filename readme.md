@@ -15,11 +15,14 @@ Por ser un cargo con capacidades técnicas, se requiere que al menos obtenga mas
 Uno de los negocios principales para la empresa, es la venta de laminas protectoras de pantalla para telefonos movil; para este fin, la empresa ha dispuesto 5 puntos de venta. sin embargo, por condiciones de una alianza comercial de la empresa con un retail estrategico, en los puntos de venta se deben cumplir unas condiciones de abastecimiento y de antguedad de inventario, que son las siguientes:
 
 1	Todos los puntos deben estar abastecidos con al menos 5000 laminas
+
 2	El inventario de laminas en punto no puede ser más antiguo de 90 días
 
 En caso de no cumplirse con esas especificaciones, el punto quedará deshabilitado para continuar atendiendo ventas
 Actualmente existe la problemática de que no existe una forma de reportar y llevar control de las existencias de inventario de laminas por punto
-La necesidad de la empresa se puede resumir de la siguiente manera:
+
+
+## La necesidad de la empresa se puede resumir de la siguiente manera:
 
 
 | 1 | Tener un reporte para identificar inventario envejecido (mas de 90 días) por punto y tomar medidas inmediatas                                                                                                                                                 |
