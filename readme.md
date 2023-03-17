@@ -64,7 +64,7 @@ Ejemplo (paso a paso de rotación laminas)
 
 1	La información entregada en los excel con nomenclatura (P#_entrega_AAAA-MM-DD.xlsx) corresponde al registro de laminas abastecidas a 5 puntos de venta desde bodega
 
-2	La información entregada en los excel con nomenclatura (P#_ventas_AAAAMMDD.xlsx) corresponde al registro de laminas vendidas en los 5 puntos de venta
+2	La información entregada en los excel con nomenclatura (P#_ventas_AAAA-MM-DD.xlsx) corresponde al registro de laminas vendidas en los 5 puntos de venta
 
 3	Considere la siguiente ubicación geo-espacial de los puntos (en la optimización de la estrategia de ruta):
 
